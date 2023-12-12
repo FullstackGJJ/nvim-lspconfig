@@ -18,6 +18,7 @@ return {
     $ curl http://3e8.org/pub/chicken-doc/chicken-doc-repo.tgz | sudo tar zx
 
     Then install via `chicken-install`: `chicken-install lsp-server`
+    You may have to add the path to `chicken-lsp-server` to your bashrc or zshrc
     ]],
   },
 }
